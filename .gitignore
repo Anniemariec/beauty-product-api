@@ -1,0 +1,13 @@
+# Ignore binary and build files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Ignore Go workspace files
+/bin
+/vendor
+/Godeps
